@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wingmirrors.ie/sitemap.xml
+Sitemap: https://www.wingmirrors.ie/sitemap.xml
