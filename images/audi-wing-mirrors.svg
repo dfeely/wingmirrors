@@ -36,8 +36,9 @@
 <path d="M868 238 C876 262 876 330 868 352" stroke="#ffb020" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.9"/>
 </g>
 <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" fill="#10324b">
-<text x="60" y="108" font-size="30" font-weight="600" opacity="0.8">Wing mirrors for</text>
-<text x="56" y="184" font-size="84" font-weight="800">Audi</text>
-<text x="60" y="226" font-size="26" font-weight="600" fill="#1f5f8d">Ireland  |  all models</text>
+<text x="60" y="108" font-size="30" font-weight="600" letter-spacing="0" fill="#10324b" opacity="0.8">Wing mirrors for</text>
+<text x="55" y="184" font-size="84" font-weight="900" letter-spacing="-1">Audi</text>
+<rect x="60" y="194" width="96" height="8" rx="4" fill="hsl(239,60%,28%)"/>
+<text x="60" y="238" font-size="26" font-weight="600" fill="#1f5f8d">Ireland  |  all models</text>
 </g>
 </svg>
