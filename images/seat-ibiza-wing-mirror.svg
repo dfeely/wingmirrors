@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Illustration of a SEAT Ibiza wing mirror reflecting green Irish hills">
+<title>Illustration of a SEAT Ibiza wing mirror reflecting green Irish hills</title>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8fc7ea"/><stop offset="0.7" stop-color="#d6ecf8"/><stop offset="1" stop-color="#eef8fc"/></linearGradient>
+<linearGradient id="glassSky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7dbbe3"/><stop offset="1" stop-color="#e3f3fb"/></linearGradient>
+<linearGradient id="housing" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b4856"/><stop offset="1" stop-color="#171e26"/></linearGradient>
+<linearGradient id="door" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="hsl(169,55%,36%)"/><stop offset="1" stop-color="hsl(169,62%,20%)"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="glassClip"><rect x="470" y="150" width="400" height="330" rx="150" ry="140"/></clipPath>
+</defs>
+<rect width="1200" height="420" fill="url(#sky)"/>
+<g fill="#fff" opacity="0.85"><ellipse cx="640" cy="70" rx="60" ry="16"/><ellipse cx="676" cy="60" rx="38" ry="14"/><ellipse cx="1010" cy="50" rx="56" ry="15"/></g>
+<path d="M0 330 C140 285 260 305 400 322 C520 336 600 280 740 288 C880 296 1000 334 1200 306 L1200 420 L0 420Z" fill="#8cc77a"/>
+<path d="M0 370 C170 335 330 372 500 358 C680 344 840 380 1200 350 L1200 420 L0 420Z" fill="#5fa85a"/>
+<path d="M0 404 C260 386 520 410 760 398 C960 388 1100 404 1200 398 L1200 420 L0 420Z" fill="#3f8a45"/>
+<g fill="#2f6f3a"><rect x="540" y="318" width="8" height="34"/><circle cx="544" cy="306" r="26"/><rect x="590" y="338" width="7" height="24"/><circle cx="593" cy="330" r="18"/></g>
+<g transform="translate(361,-10.5) scale(0.7)">
+<rect x="1010" y="0" width="190" height="630" fill="url(#door)"/>
+<path d="M1010 0 L1010 630" stroke="#06293f" stroke-width="6" opacity="0.6"/>
+<path d="M1010 120 H1200" stroke="#06293f" stroke-width="4" opacity="0.5"/>
+<rect x="860" y="285" width="170" height="44" rx="22" fill="#222b34"/>
+<rect x="860" y="285" width="170" height="14" rx="7" fill="#4a5968" opacity="0.7"/>
+<rect x="440" y="120" width="460" height="390" rx="175" ry="160" fill="url(#housing)"/>
+<rect x="446" y="126" width="448" height="378" rx="170" ry="155" fill="none" stroke="#5c6b7a" stroke-width="3" opacity="0.7"/>
+<g clip-path="url(#glassClip)">
+<rect x="470" y="150" width="400" height="330" fill="url(#glassSky)"/>
+<circle cx="560" cy="215" r="26" fill="#fff6cf"/>
+<ellipse cx="740" cy="200" rx="52" ry="14" fill="#fff" opacity="0.9"/>
+<path d="M470 345 C560 300 640 330 720 320 C790 312 830 300 870 310 L870 480 L470 480Z" fill="#8cc77a"/>
+<path d="M470 385 C580 355 660 395 760 380 C820 372 850 372 870 376 L870 480 L470 480Z" fill="#5fa85a"/>
+<path d="M610 480 C650 430 700 400 760 380 L800 382 C760 410 730 440 720 480Z" fill="#5d6772"/>
+<path d="M668 480 C690 440 724 418 765 400" stroke="#f4f4f4" stroke-width="3" stroke-dasharray="14 12" fill="none"/>
+<path d="M470 150 L700 150 L470 400Z" fill="url(#shine)"/>
+</g>
+<rect x="470" y="150" width="400" height="330" rx="150" ry="140" fill="none" stroke="#0e1319" stroke-width="5"/>
+<path d="M868 238 C876 262 876 330 868 352" stroke="#ffb020" stroke-width="12" stroke-linecap="round" fill="none" opacity="0.9"/>
+</g>
+<g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif" fill="#10324b">
+<text x="60" y="108" font-size="30" font-weight="800" letter-spacing="4" fill="hsl(169,60%,28%)" opacity="1">SEAT</text>
+<text x="55" y="184" font-size="84" font-weight="900" letter-spacing="-1">Ibiza</text>
+<rect x="60" y="194" width="96" height="8" rx="4" fill="hsl(169,60%,28%)"/>
+<text x="60" y="238" font-size="26" font-weight="600" fill="#1f5f8d">Wing mirror guide  |  Ireland</text>
+</g>
+</svg>
