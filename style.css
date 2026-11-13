@@ -16,6 +16,7 @@ h2{font-size:1.4rem;margin:2rem 0 .5rem}
 h3{font-size:1.1rem;margin:1.2rem 0 .3rem}
 a{color:var(--brand)}
 .lead{font-size:1.15rem;color:var(--muted)}
+address{font-style:normal;margin:1rem 0}
 .crumbs{font-size:.88rem;color:var(--muted);margin:1rem 0 0}
 .crumbs a{color:var(--muted)}
 .crumbs .sep{margin:0 4px}
